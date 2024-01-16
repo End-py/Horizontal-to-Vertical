@@ -1,0 +1,7 @@
+## Interface: 11200
+## Version: 1.0.0
+## Title: Vertical to Horizontal actionbars
+## Notes: Test first addon
+## Author: Endpy (https://github.com/End-py)
+
+Vertical_to_Horizontal.lua
